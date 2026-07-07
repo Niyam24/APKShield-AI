@@ -23,7 +23,7 @@ An AI-powered Android Malware Detection Platform that performs **static APK anal
 
 ### Dashboard
 
-> Add your homepage screenshot here.
+
 
 ```
 images/dashboard.png
