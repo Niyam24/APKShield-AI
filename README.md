@@ -31,7 +31,7 @@ An AI-powered Android Malware Detection Platform that performs **static APK anal
 
 ### Malware Analysis
 
-> Add your analysis result screenshot here.
+
 
 
 ![Analysis](images/analysis.png)
